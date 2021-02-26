@@ -1,0 +1,17 @@
+D:\git\FurionTemple\FurionTemplate.Common\bin\Debug\net5.0\appsettings.Production.json
+D:\git\FurionTemple\FurionTemplate.Common\bin\Debug\net5.0\FurionTemplate.Common.deps.json
+D:\git\FurionTemple\FurionTemplate.Common\bin\Debug\net5.0\FurionTemplate.Common.dll
+D:\git\FurionTemple\FurionTemplate.Common\bin\Debug\net5.0\ref\FurionTemplate.Common.dll
+D:\git\FurionTemple\FurionTemplate.Common\bin\Debug\net5.0\FurionTemplate.Common.pdb
+D:\git\FurionTemple\FurionTemplate.Common\bin\Debug\net5.0\FurionTemplate.Core.dll
+D:\git\FurionTemple\FurionTemplate.Common\bin\Debug\net5.0\FurionTemplate.Core.pdb
+D:\git\FurionTemple\FurionTemplate.Common\bin\Debug\net5.0\FurionTemplate.Core.xml
+D:\git\FurionTemple\FurionTemplate.Common\obj\Debug\net5.0\FurionTemplate.Common.csprojAssemblyReference.cache
+D:\git\FurionTemple\FurionTemplate.Common\obj\Debug\net5.0\FurionTemplate.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\FurionTemple\FurionTemplate.Common\obj\Debug\net5.0\FurionTemplate.Common.AssemblyInfoInputs.cache
+D:\git\FurionTemple\FurionTemplate.Common\obj\Debug\net5.0\FurionTemplate.Common.AssemblyInfo.cs
+D:\git\FurionTemple\FurionTemplate.Common\obj\Debug\net5.0\FurionTemplate.Common.csproj.CoreCompileInputs.cache
+D:\git\FurionTemple\FurionTemplate.Common\obj\Debug\net5.0\FurionTemplate.Common.csproj.CopyComplete
+D:\git\FurionTemple\FurionTemplate.Common\obj\Debug\net5.0\FurionTemplate.Common.dll
+D:\git\FurionTemple\FurionTemplate.Common\obj\Debug\net5.0\ref\FurionTemplate.Common.dll
+D:\git\FurionTemple\FurionTemplate.Common\obj\Debug\net5.0\FurionTemplate.Common.pdb

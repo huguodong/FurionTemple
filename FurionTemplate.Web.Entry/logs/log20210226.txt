@@ -180,3 +180,13 @@ System.Reflection.TargetInvocationException: Exception has been thrown by the ta
 2021-02-26 17:06:14.892 +08:00 [INF] 查询了ID为32的数据
 2021-02-26 17:06:23.698 +08:00 [INF] 查询了ID为32的数据
 2021-02-26 17:06:46.189 +08:00 [INF] 查询了ID为1111的数据
+2021-02-26 18:48:30.272 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-26 18:48:30.316 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-26 18:48:30.318 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 18:48:30.319 +08:00 [INF] Hosting environment: Development
+2021-02-26 18:48:30.320 +08:00 [INF] Content root path: D:\git\FurionTemple\FurionTemplate.Web.Entry
+2021-02-26 18:49:10.203 +08:00 [INF] 【日志名称】:添加用户 
+【日志类型】:"Operation" 
+【操作类型】:"Add" 
+【执行结果】:"请求成功" 
+

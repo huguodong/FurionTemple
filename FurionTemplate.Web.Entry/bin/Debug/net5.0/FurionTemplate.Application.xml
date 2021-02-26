@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FurionTemplate.Application</name>
+    </assembly>
+    <members>
+        <member name="T:FurionTemplate.Application.Demo.DemoAppService">
+            <summary>
+            测试
+            </summary>
+        </member>
+        <member name="M:FurionTemplate.Application.Demo.DemoAppService.GetDemoGet">
+            <summary>
+            获取字符串
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FurionTemplate.Application.Demo.DemoAppService.GetQuery(System.Int32)">
+            <summary>
+            查询
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FurionTemplate.Application.Demo.DemoAppService.PostAdd(FurionTemplate.Application.Demo.AddModel)">
+            <summary>
+            添加
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FurionTemplate.Application.Demo.DemoAppService.GetThrow">
+            <summary>
+            抛异常
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FurionTemplate.Application.Demo.DemoAppService.GetToken">
+            <summary>
+            获取token
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FurionTemplate.Application.Demo.DemoAppService.NeedToken">
+            <summary>
+            token访问
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FurionTemplate.Application.Demo.DemoAppService.Aop">
+            <summary>
+            测试Aop
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:FurionTemplate.Application.Demo.AddModel.Id">
+            <summary>
+            Id
+            </summary>
+        </member>
+        <member name="P:FurionTemplate.Application.Demo.AddModel.Name">
+            <summary>
+            姓名
+            </summary>
+        </member>
+        <member name="T:FurionTemplate.Application.Demo.Services.DemoService">
+            <summary>
+            测试服务
+            </summary>
+        </member>
+        <member name="T:FurionTemplate.Application.SystemAppService">
+            <summary>
+            系统服务接口
+            </summary>
+        </member>
+        <member name="M:FurionTemplate.Application.SystemAppService.GetDescription">
+            <summary>
+            获取系统描述
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

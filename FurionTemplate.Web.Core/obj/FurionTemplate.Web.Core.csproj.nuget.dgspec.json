@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\胡国东\\FurionTemplate\\FurionTemplate.Web.Core\\FurionTemplate.Web.Core.csproj": {}
+    "D:\\git\\FurionTemple\\FurionTemplate.Web.Core\\FurionTemplate.Web.Core.csproj": {}
   },
   "projects": {
-    "D:\\胡国东\\FurionTemplate\\FurionTemplate.Application\\FurionTemplate.Application.csproj": {
+    "D:\\git\\FurionTemple\\FurionTemplate.Application\\FurionTemplate.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\胡国东\\FurionTemplate\\FurionTemplate.Application\\FurionTemplate.Application.csproj",
+        "projectUniqueName": "D:\\git\\FurionTemple\\FurionTemplate.Application\\FurionTemplate.Application.csproj",
         "projectName": "FurionTemplate.Application",
-        "projectPath": "D:\\胡国东\\FurionTemplate\\FurionTemplate.Application\\FurionTemplate.Application.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\胡国东\\FurionTemplate\\FurionTemplate.Application\\obj\\",
+        "projectPath": "D:\\git\\FurionTemple\\FurionTemplate.Application\\FurionTemplate.Application.csproj",
+        "packagesPath": "C:\\Users\\Administrator.XTTD-2021AOSAJK\\.nuget\\packages\\",
+        "outputPath": "D:\\git\\FurionTemple\\FurionTemplate.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator.XTTD-2021AOSAJK\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,18 +22,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://153.101.199.86:28000/NuGet": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\胡国东\\FurionTemplate\\FurionTemplate.Common\\FurionTemplate.Common.csproj": {
-                "projectPath": "D:\\胡国东\\FurionTemplate\\FurionTemplate.Common\\FurionTemplate.Common.csproj"
+              "D:\\git\\FurionTemple\\FurionTemplate.Common\\FurionTemplate.Common.csproj": {
+                "projectPath": "D:\\git\\FurionTemple\\FurionTemplate.Common\\FurionTemplate.Common.csproj"
               },
-              "D:\\胡国东\\FurionTemplate\\FurionTemplate.Core\\FurionTemplate.Core.csproj": {
-                "projectPath": "D:\\胡国东\\FurionTemplate\\FurionTemplate.Core\\FurionTemplate.Core.csproj"
+              "D:\\git\\FurionTemple\\FurionTemplate.Core\\FurionTemplate.Core.csproj": {
+                "projectPath": "D:\\git\\FurionTemple\\FurionTemplate.Core\\FurionTemplate.Core.csproj"
               }
             }
           }
@@ -69,17 +68,17 @@
         }
       }
     },
-    "D:\\胡国东\\FurionTemplate\\FurionTemplate.Common\\FurionTemplate.Common.csproj": {
+    "D:\\git\\FurionTemple\\FurionTemplate.Common\\FurionTemplate.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\胡国东\\FurionTemplate\\FurionTemplate.Common\\FurionTemplate.Common.csproj",
+        "projectUniqueName": "D:\\git\\FurionTemple\\FurionTemplate.Common\\FurionTemplate.Common.csproj",
         "projectName": "FurionTemplate.Common",
-        "projectPath": "D:\\胡国东\\FurionTemplate\\FurionTemplate.Common\\FurionTemplate.Common.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\胡国东\\FurionTemplate\\FurionTemplate.Common\\obj\\",
+        "projectPath": "D:\\git\\FurionTemple\\FurionTemplate.Common\\FurionTemplate.Common.csproj",
+        "packagesPath": "C:\\Users\\Administrator.XTTD-2021AOSAJK\\.nuget\\packages\\",
+        "outputPath": "D:\\git\\FurionTemple\\FurionTemplate.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator.XTTD-2021AOSAJK\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -87,15 +86,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://153.101.199.86:28000/NuGet": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\胡国东\\FurionTemplate\\FurionTemplate.Core\\FurionTemplate.Core.csproj": {
-                "projectPath": "D:\\胡国东\\FurionTemplate\\FurionTemplate.Core\\FurionTemplate.Core.csproj"
+              "D:\\git\\FurionTemple\\FurionTemplate.Core\\FurionTemplate.Core.csproj": {
+                "projectPath": "D:\\git\\FurionTemple\\FurionTemplate.Core\\FurionTemplate.Core.csproj"
               }
             }
           }
@@ -113,10 +111,6 @@
             "Aliyun.OSS.SDK.NetCore": {
               "target": "Package",
               "version": "[2.12.0, )"
-            },
-            "BaiduHelper": {
-              "target": "Package",
-              "version": "[1.0.0, )"
             },
             "Castle.Core": {
               "target": "Package",
@@ -177,17 +171,17 @@
         }
       }
     },
-    "D:\\胡国东\\FurionTemplate\\FurionTemplate.Core\\FurionTemplate.Core.csproj": {
+    "D:\\git\\FurionTemple\\FurionTemplate.Core\\FurionTemplate.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\胡国东\\FurionTemplate\\FurionTemplate.Core\\FurionTemplate.Core.csproj",
+        "projectUniqueName": "D:\\git\\FurionTemple\\FurionTemplate.Core\\FurionTemplate.Core.csproj",
         "projectName": "FurionTemplate.Core",
-        "projectPath": "D:\\胡国东\\FurionTemplate\\FurionTemplate.Core\\FurionTemplate.Core.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\胡国东\\FurionTemplate\\FurionTemplate.Core\\obj\\",
+        "projectPath": "D:\\git\\FurionTemple\\FurionTemplate.Core\\FurionTemplate.Core.csproj",
+        "packagesPath": "C:\\Users\\Administrator.XTTD-2021AOSAJK\\.nuget\\packages\\",
+        "outputPath": "D:\\git\\FurionTemple\\FurionTemplate.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator.XTTD-2021AOSAJK\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -195,7 +189,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://153.101.199.86:28000/NuGet": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -237,6 +230,14 @@
             "NewLife.Core": {
               "target": "Package",
               "version": "[8.10.2021.202, )"
+            },
+            "Serilog.Sinks.Async": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Serilog.Sinks.Seq": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [
@@ -261,17 +262,17 @@
         }
       }
     },
-    "D:\\胡国东\\FurionTemplate\\FurionTemplate.Web.Core\\FurionTemplate.Web.Core.csproj": {
+    "D:\\git\\FurionTemple\\FurionTemplate.Web.Core\\FurionTemplate.Web.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\胡国东\\FurionTemplate\\FurionTemplate.Web.Core\\FurionTemplate.Web.Core.csproj",
+        "projectUniqueName": "D:\\git\\FurionTemple\\FurionTemplate.Web.Core\\FurionTemplate.Web.Core.csproj",
         "projectName": "FurionTemplate.Web.Core",
-        "projectPath": "D:\\胡国东\\FurionTemplate\\FurionTemplate.Web.Core\\FurionTemplate.Web.Core.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\胡国东\\FurionTemplate\\FurionTemplate.Web.Core\\obj\\",
+        "projectPath": "D:\\git\\FurionTemple\\FurionTemplate.Web.Core\\FurionTemplate.Web.Core.csproj",
+        "packagesPath": "C:\\Users\\Administrator.XTTD-2021AOSAJK\\.nuget\\packages\\",
+        "outputPath": "D:\\git\\FurionTemple\\FurionTemplate.Web.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator.XTTD-2021AOSAJK\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -279,15 +280,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://153.101.199.86:28000/NuGet": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\胡国东\\FurionTemplate\\FurionTemplate.Application\\FurionTemplate.Application.csproj": {
-                "projectPath": "D:\\胡国东\\FurionTemplate\\FurionTemplate.Application\\FurionTemplate.Application.csproj"
+              "D:\\git\\FurionTemple\\FurionTemplate.Application\\FurionTemplate.Application.csproj": {
+                "projectPath": "D:\\git\\FurionTemple\\FurionTemplate.Application\\FurionTemplate.Application.csproj"
               }
             }
           }
