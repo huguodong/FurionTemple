@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+		<NoWarn>1701;1702;1591</NoWarn>
+		<DocumentationFile>FurionTemplate.Web.Core.xml</DocumentationFile>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Remove="FurionTemplate.Web.Core.xml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="Furion.Extras.Authentication.JwtBearer" Version="1.15.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\FurionTemplate.Application\FurionTemplate.Application.csproj" />
+	</ItemGroup>
+
+</Project>

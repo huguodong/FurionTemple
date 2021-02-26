@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\胡国东\\FurionTemplate\\FurionTemplate.Core\\FurionTemplate.Core.csproj": {}
+  },
+  "projects": {
+    "D:\\胡国东\\FurionTemplate\\FurionTemplate.Core\\FurionTemplate.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\胡国东\\FurionTemplate\\FurionTemplate.Core\\FurionTemplate.Core.csproj",
+        "projectName": "FurionTemplate.Core",
+        "projectPath": "D:\\胡国东\\FurionTemplate\\FurionTemplate.Core\\FurionTemplate.Core.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\胡国东\\FurionTemplate\\FurionTemplate.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://153.101.199.86:28000/NuGet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Furion": {
+              "target": "Package",
+              "version": "[1.15.0, )"
+            },
+            "Furion.Extras.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[1.15.0, )"
+            },
+            "Furion.Extras.DatabaseAccessor.SqlSugar": {
+              "target": "Package",
+              "version": "[1.15.0, )"
+            },
+            "Furion.Extras.Logging.Serilog": {
+              "target": "Package",
+              "version": "[1.15.0, )"
+            },
+            "Furion.Extras.ObjectMapper.Mapster": {
+              "target": "Package",
+              "version": "[1.15.0, )"
+            },
+            "NewLife.Core": {
+              "target": "Package",
+              "version": "[8.10.2021.202, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,182 @@
+2021-02-26 13:30:19.948 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-26 13:30:20.108 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-26 13:30:20.113 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 13:30:20.117 +08:00 [INF] Hosting environment: Development
+2021-02-26 13:30:20.121 +08:00 [INF] Content root path: D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry
+2021-02-26 13:30:57.114 +08:00 [INF] 查询了ID为33的数据
+2021-02-26 13:33:14.879 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-26 13:33:30.108 +08:00 [INF] 查询了ID为33的数据
+2021-02-26 13:33:35.085 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-26 13:33:35.090 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 13:33:35.093 +08:00 [INF] Hosting environment: Development
+2021-02-26 13:33:35.097 +08:00 [INF] Content root path: D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry
+2021-02-26 13:36:51.129 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-26 13:36:51.221 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-26 13:36:51.227 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 13:36:51.232 +08:00 [INF] Hosting environment: Development
+2021-02-26 13:36:51.238 +08:00 [INF] Content root path: D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry
+2021-02-26 13:37:31.344 +08:00 [INF] 查询了ID为4的数据
+2021-02-26 13:44:10.067 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-26 13:44:10.144 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-26 13:44:10.150 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 13:44:10.156 +08:00 [INF] Hosting environment: Development
+2021-02-26 13:44:10.160 +08:00 [INF] Content root path: D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry
+2021-02-26 13:44:38.869 +08:00 [INF] 查询了ID为333的数据
+2021-02-26 13:56:44.102 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-26 13:56:44.216 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-26 13:56:44.236 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 13:56:44.243 +08:00 [INF] Hosting environment: Development
+2021-02-26 13:56:44.250 +08:00 [INF] Content root path: D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry
+2021-02-26 14:10:51.882 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-26 14:10:51.961 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-26 14:10:51.968 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 14:10:51.978 +08:00 [INF] Hosting environment: Development
+2021-02-26 14:10:51.983 +08:00 [INF] Content root path: D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry
+2021-02-26 14:13:26.477 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-26 14:13:26.554 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-26 14:13:26.559 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 14:13:26.565 +08:00 [INF] Hosting environment: Development
+2021-02-26 14:13:26.570 +08:00 [INF] Content root path: D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry
+2021-02-26 14:18:26.485 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-26 14:18:26.573 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-26 14:18:26.579 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 14:18:26.585 +08:00 [INF] Hosting environment: Development
+2021-02-26 14:18:26.591 +08:00 [INF] Content root path: D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry
+2021-02-26 14:20:07.427 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-26 14:20:07.658 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-26 14:20:07.684 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 14:20:07.699 +08:00 [INF] Hosting environment: Development
+2021-02-26 14:20:07.707 +08:00 [INF] Content root path: D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry
+2021-02-26 14:22:09.453 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-26 14:22:09.532 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-26 14:22:09.538 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 14:22:09.543 +08:00 [INF] Hosting environment: Development
+2021-02-26 14:22:09.549 +08:00 [INF] Content root path: D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry
+2021-02-26 14:26:01.197 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-26 14:26:01.264 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-26 14:26:01.270 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 14:26:01.276 +08:00 [INF] Hosting environment: Development
+2021-02-26 14:26:01.281 +08:00 [INF] Content root path: D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry
+2021-02-26 14:26:53.297 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-26 14:26:53.369 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-26 14:26:53.376 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 14:26:53.382 +08:00 [INF] Hosting environment: Development
+2021-02-26 14:26:53.386 +08:00 [INF] Content root path: D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry
+2021-02-26 14:31:39.117 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-26 14:31:39.185 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-26 14:31:39.189 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 14:31:39.193 +08:00 [INF] Hosting environment: Development
+2021-02-26 14:31:39.198 +08:00 [INF] Content root path: D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry
+2021-02-26 15:16:22.857 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-26 15:16:22.919 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-26 15:16:22.925 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 15:16:22.930 +08:00 [INF] Hosting environment: Development
+2021-02-26 15:16:22.934 +08:00 [INF] Content root path: D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry
+2021-02-26 16:09:49.540 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-26 16:09:49.715 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-26 16:09:49.729 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 16:09:49.735 +08:00 [INF] Hosting environment: Development
+2021-02-26 16:09:49.744 +08:00 [INF] Content root path: D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry
+2021-02-26 16:30:42.618 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-26 16:30:42.791 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-26 16:30:42.889 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 16:30:42.897 +08:00 [INF] Hosting environment: Development
+2021-02-26 16:30:42.907 +08:00 [INF] Content root path: D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry
+2021-02-26 16:38:04.586 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-26 16:38:04.713 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-26 16:38:04.729 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 16:38:04.740 +08:00 [INF] Hosting environment: Development
+2021-02-26 16:38:04.750 +08:00 [INF] Content root path: D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry
+2021-02-26 16:38:48.263 +08:00 [ERR] An unhandled exception has occurred while executing the request.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.ArgumentException: BaseType_Must_Have_Default_Ctor FurionTemplate.Core.AOP.ULogAop (Parameter 'baseType')
+   at Furion.Reflection.AspectDispatchProxyGenerator.GenerateProxyType(Type baseType, Type interfaceType)
+   at Furion.Reflection.AspectDispatchProxyGenerator.GetProxyType(Type baseType, Type interfaceType)
+   at Furion.Reflection.AspectDispatchProxyGenerator.CreateProxyInstance(Type baseType, Type interfaceType)
+   at Furion.Reflection.AspectDispatchProxy.Create[T,TProxy]()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at Microsoft.Extensions.DependencyInjection.DependencyInjectionServiceCollectionExtensions.<>c__DisplayClass10_0.<AddSingletonDispatchProxy>b__0(IServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitFactory(FactoryCallSite factoryCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitCache(ServiceCallSite callSite, RuntimeResolverContext context, ServiceProviderEngineScope serviceProviderEngine, RuntimeResolverLock lockType)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitRootCache(ServiceCallSite singletonCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine.<>c__DisplayClass1_0.<RealizeService>b__0(ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetService[T](IServiceProvider provider)
+   at Microsoft.AspNetCore.Mvc.Filters.FriendlyExceptionFilter.OnExceptionAsync(ExceptionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Furion.UnifyResult.UnifyResultStatusCodesMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-02-26 16:43:06.004 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-26 16:43:06.098 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-26 16:43:06.104 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 16:43:06.109 +08:00 [INF] Hosting environment: Development
+2021-02-26 16:43:06.114 +08:00 [INF] Content root path: D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry
+2021-02-26 16:43:18.185 +08:00 [INF] 查询了ID为3的数据
+2021-02-26 16:43:18.200 +08:00 [INF] 查询了ID为3的数据
+2021-02-26 16:43:47.030 +08:00 [INF] 查询了ID为3的数据
+2021-02-26 16:43:47.045 +08:00 [INF] 查询了ID为3的数据
+2021-02-26 16:44:28.233 +08:00 [INF] 【日志名称】:添加用户 
+【日志类型】:"Operation" 
+【操作类型】:"Add" 
+【执行结果】:"请求成功" 
+
+2021-02-26 16:48:27.847 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-26 16:48:27.943 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-26 16:48:27.951 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 16:48:27.959 +08:00 [INF] Hosting environment: Development
+2021-02-26 16:48:27.967 +08:00 [INF] Content root path: D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry
+2021-02-26 16:48:41.387 +08:00 [INF] 查询了ID为3的数据
+2021-02-26 16:48:41.398 +08:00 [INF] 查询了ID为3的数据
+2021-02-26 16:51:00.749 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-26 16:51:00.868 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-26 16:51:00.875 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 16:51:00.881 +08:00 [INF] Hosting environment: Development
+2021-02-26 16:51:00.885 +08:00 [INF] Content root path: D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry
+2021-02-26 16:51:10.011 +08:00 [INF] 查询了ID为3的数据
+2021-02-26 16:51:10.025 +08:00 [INF] 查询了ID为3的数据
+2021-02-26 16:51:32.416 +08:00 [INF] 查询了ID为3333的数据
+2021-02-26 16:51:32.424 +08:00 [INF] 查询了ID为3333的数据
+2021-02-26 16:53:24.099 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-26 16:53:24.246 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-26 16:53:24.255 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 16:53:24.261 +08:00 [INF] Hosting environment: Development
+2021-02-26 16:53:24.266 +08:00 [INF] Content root path: D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry
+2021-02-26 16:53:32.865 +08:00 [INF] 查询了ID为3322的数据
+2021-02-26 16:53:32.874 +08:00 [INF] 查询了ID为3322的数据
+2021-02-26 16:54:22.384 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-26 16:54:22.471 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-26 16:54:22.475 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 16:54:22.478 +08:00 [INF] Hosting environment: Development
+2021-02-26 16:54:22.482 +08:00 [INF] Content root path: D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry
+2021-02-26 16:54:42.638 +08:00 [INF] 查询了ID为33的数据
+2021-02-26 16:54:42.648 +08:00 [INF] 查询了ID为33的数据
+2021-02-26 17:02:05.200 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-26 17:02:05.285 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-26 17:02:05.289 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-26 17:02:05.291 +08:00 [INF] Hosting environment: Development
+2021-02-26 17:02:05.294 +08:00 [INF] Content root path: D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry
+2021-02-26 17:02:12.663 +08:00 [INF] 查询了ID为3的数据
+2021-02-26 17:02:12.683 +08:00 [INF] 查询了ID为3的数据
+2021-02-26 17:02:37.588 +08:00 [INF] 【日志名称】:添加用户 
+【日志类型】:"Operation" 
+【操作类型】:"Add" 
+【执行结果】:"请求成功" 
+
+2021-02-26 17:03:30.658 +08:00 [ERR] 报错了
+2021-02-26 17:04:15.746 +08:00 [INF] 查询了ID为32的数据
+2021-02-26 17:04:15.754 +08:00 [INF] 查询了ID为32的数据
+2021-02-26 17:06:14.892 +08:00 [INF] 查询了ID为32的数据
+2021-02-26 17:06:23.698 +08:00 [INF] 查询了ID为32的数据
+2021-02-26 17:06:46.189 +08:00 [INF] 查询了ID为1111的数据

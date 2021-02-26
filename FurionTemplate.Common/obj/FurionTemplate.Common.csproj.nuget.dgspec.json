@@ -1,0 +1,200 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\胡国东\\FurionTemplate\\FurionTemplate.Common\\FurionTemplate.Common.csproj": {}
+  },
+  "projects": {
+    "D:\\胡国东\\FurionTemplate\\FurionTemplate.Common\\FurionTemplate.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\胡国东\\FurionTemplate\\FurionTemplate.Common\\FurionTemplate.Common.csproj",
+        "projectName": "FurionTemplate.Common",
+        "projectPath": "D:\\胡国东\\FurionTemplate\\FurionTemplate.Common\\FurionTemplate.Common.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\胡国东\\FurionTemplate\\FurionTemplate.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://153.101.199.86:28000/NuGet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\胡国东\\FurionTemplate\\FurionTemplate.Core\\FurionTemplate.Core.csproj": {
+                "projectPath": "D:\\胡国东\\FurionTemplate\\FurionTemplate.Core\\FurionTemplate.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Aliyun.OSS.SDK.NetCore": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            },
+            "BaiduHelper": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Castle.Core": {
+              "target": "Package",
+              "version": "[4.4.1, )"
+            },
+            "Masuit.Tools.Core": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "Minio": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "NewLife.Redis": {
+              "target": "Package",
+              "version": "[3.8.2020.1201, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[4.7.1, )"
+            },
+            "aliyun-net-sdk-core": {
+              "target": "Package",
+              "version": "[1.5.10, )"
+            },
+            "aliyun-net-sdk-dysmsapi": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\胡国东\\FurionTemplate\\FurionTemplate.Core\\FurionTemplate.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\胡国东\\FurionTemplate\\FurionTemplate.Core\\FurionTemplate.Core.csproj",
+        "projectName": "FurionTemplate.Core",
+        "projectPath": "D:\\胡国东\\FurionTemplate\\FurionTemplate.Core\\FurionTemplate.Core.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\胡国东\\FurionTemplate\\FurionTemplate.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://153.101.199.86:28000/NuGet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Furion": {
+              "target": "Package",
+              "version": "[1.15.0, )"
+            },
+            "Furion.Extras.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[1.15.0, )"
+            },
+            "Furion.Extras.DatabaseAccessor.SqlSugar": {
+              "target": "Package",
+              "version": "[1.15.0, )"
+            },
+            "Furion.Extras.Logging.Serilog": {
+              "target": "Package",
+              "version": "[1.15.0, )"
+            },
+            "Furion.Extras.ObjectMapper.Mapster": {
+              "target": "Package",
+              "version": "[1.15.0, )"
+            },
+            "NewLife.Core": {
+              "target": "Package",
+              "version": "[8.10.2021.202, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

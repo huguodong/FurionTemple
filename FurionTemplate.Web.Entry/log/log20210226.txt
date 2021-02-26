@@ -1,0 +1,390 @@
+
+Date：2021-02-26 13:44:10.067
+LogLevel：Information
+Message：Now listening on: "https://localhost:5001"
+
+Date：2021-02-26 13:44:10.144
+LogLevel：Information
+Message：Now listening on: "http://localhost:5000"
+
+Date：2021-02-26 13:44:10.150
+LogLevel：Information
+Message：Application started. Press Ctrl+C to shut down.
+
+Date：2021-02-26 13:44:10.156
+LogLevel：Information
+Message：Hosting environment: "Development"
+
+Date：2021-02-26 13:44:10.160
+LogLevel：Information
+Message：Content root path: "D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry"
+
+Date：2021-02-26 13:44:38.869
+LogLevel：Information
+Message：查询了ID为333的数据
+
+Date：2021-02-26 13:56:44.102
+LogLevel：Information
+Message：Now listening on: "https://localhost:5001"
+
+Date：2021-02-26 13:56:44.216
+LogLevel：Information
+Message：Now listening on: "http://localhost:5000"
+
+Date：2021-02-26 13:56:44.236
+LogLevel：Information
+Message：Application started. Press Ctrl+C to shut down.
+
+Date：2021-02-26 13:56:44.243
+LogLevel：Information
+Message：Hosting environment: "Development"
+
+Date：2021-02-26 13:56:44.250
+LogLevel：Information
+Message：Content root path: "D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry"
+
+Date：2021-02-26 14:10:51.882
+LogLevel：Information
+Message：Now listening on: "https://localhost:5001"
+
+Date：2021-02-26 14:10:51.961
+LogLevel：Information
+Message：Now listening on: "http://localhost:5000"
+
+Date：2021-02-26 14:10:51.968
+LogLevel：Information
+Message：Application started. Press Ctrl+C to shut down.
+
+Date：2021-02-26 14:10:51.978
+LogLevel：Information
+Message：Hosting environment: "Development"
+
+Date：2021-02-26 14:10:51.983
+LogLevel：Information
+Message：Content root path: "D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry"
+
+Date：2021-02-26 14:13:26.477
+LogLevel：Information
+Message：Now listening on: "https://localhost:5001"
+
+Date：2021-02-26 14:13:26.554
+LogLevel：Information
+Message：Now listening on: "http://localhost:5000"
+
+Date：2021-02-26 14:13:26.559
+LogLevel：Information
+Message：Application started. Press Ctrl+C to shut down.
+
+Date：2021-02-26 14:13:26.565
+LogLevel：Information
+Message：Hosting environment: "Development"
+
+Date：2021-02-26 14:13:26.570
+LogLevel：Information
+Message：Content root path: "D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry"
+
+Date：2021-02-26 14:18:26.485
+LogLevel：Information
+Message：Now listening on: "https://localhost:5001"
+
+Date：2021-02-26 14:18:26.573
+LogLevel：Information
+Message：Now listening on: "http://localhost:5000"
+
+Date：2021-02-26 14:18:26.579
+LogLevel：Information
+Message：Application started. Press Ctrl+C to shut down.
+
+Date：2021-02-26 14:18:26.585
+LogLevel：Information
+Message：Hosting environment: "Development"
+
+Date：2021-02-26 14:18:26.591
+LogLevel：Information
+Message：Content root path: "D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry"
+
+Date：2021-02-26 14:20:07.427
+LogLevel：Information
+Message：Now listening on: "https://localhost:5001"
+
+Date：2021-02-26 14:20:07.658
+LogLevel：Information
+Message：Now listening on: "http://localhost:5000"
+
+Date：2021-02-26 14:20:07.684
+LogLevel：Information
+Message：Application started. Press Ctrl+C to shut down.
+
+Date：2021-02-26 14:20:07.699
+LogLevel：Information
+Message：Hosting environment: "Development"
+
+Date：2021-02-26 14:20:07.707
+LogLevel：Information
+Message：Content root path: "D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry"
+
+Date：2021-02-26 14:22:09.453
+LogLevel：Information
+Message：Now listening on: "https://localhost:5001"
+
+Date：2021-02-26 14:22:09.532
+LogLevel：Information
+Message：Now listening on: "http://localhost:5000"
+
+Date：2021-02-26 14:22:09.538
+LogLevel：Information
+Message：Application started. Press Ctrl+C to shut down.
+
+Date：2021-02-26 14:22:09.543
+LogLevel：Information
+Message：Hosting environment: "Development"
+
+Date：2021-02-26 14:22:09.549
+LogLevel：Information
+Message：Content root path: "D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry"
+
+Date：2021-02-26 14:26:01.197
+LogLevel：Information
+Message：Now listening on: "https://localhost:5001"
+
+Date：2021-02-26 14:26:01.264
+LogLevel：Information
+Message：Now listening on: "http://localhost:5000"
+
+Date：2021-02-26 14:26:01.270
+LogLevel：Information
+Message：Application started. Press Ctrl+C to shut down.
+
+Date：2021-02-26 14:26:01.276
+LogLevel：Information
+Message：Hosting environment: "Development"
+
+Date：2021-02-26 14:26:01.281
+LogLevel：Information
+Message：Content root path: "D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry"
+
+Date：2021-02-26 14:26:53.297
+LogLevel：Information
+Message：Now listening on: "https://localhost:5001"
+
+Date：2021-02-26 14:26:53.369
+LogLevel：Information
+Message：Now listening on: "http://localhost:5000"
+
+Date：2021-02-26 14:26:53.376
+LogLevel：Information
+Message：Application started. Press Ctrl+C to shut down.
+
+Date：2021-02-26 14:26:53.382
+LogLevel：Information
+Message：Hosting environment: "Development"
+
+Date：2021-02-26 14:26:53.386
+LogLevel：Information
+Message：Content root path: "D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry"
+
+Date：2021-02-26 14:31:39.117
+LogLevel：Information
+Message：Now listening on: "https://localhost:5001"
+
+Date：2021-02-26 14:31:39.185
+LogLevel：Information
+Message：Now listening on: "http://localhost:5000"
+
+Date：2021-02-26 14:31:39.189
+LogLevel：Information
+Message：Application started. Press Ctrl+C to shut down.
+
+Date：2021-02-26 14:31:39.193
+LogLevel：Information
+Message：Hosting environment: "Development"
+
+Date：2021-02-26 14:31:39.198
+LogLevel：Information
+Message：Content root path: "D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry"
+
+Date：2021-02-26 15:16:22.857
+LogLevel：Information
+Message：Now listening on: "https://localhost:5001"
+
+Date：2021-02-26 15:16:22.919
+LogLevel：Information
+Message：Now listening on: "http://localhost:5000"
+
+Date：2021-02-26 15:16:22.925
+LogLevel：Information
+Message：Application started. Press Ctrl+C to shut down.
+
+Date：2021-02-26 15:16:22.930
+LogLevel：Information
+Message：Hosting environment: "Development"
+
+Date：2021-02-26 15:16:22.934
+LogLevel：Information
+Message：Content root path: "D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry"
+
+Date：2021-02-26 16:09:49.540
+LogLevel：Information
+Message：Now listening on: "https://localhost:5001"
+
+Date：2021-02-26 16:09:49.715
+LogLevel：Information
+Message：Now listening on: "http://localhost:5000"
+
+Date：2021-02-26 16:09:49.729
+LogLevel：Information
+Message：Application started. Press Ctrl+C to shut down.
+
+Date：2021-02-26 16:09:49.735
+LogLevel：Information
+Message：Hosting environment: "Development"
+
+Date：2021-02-26 16:09:49.744
+LogLevel：Information
+Message：Content root path: "D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry"
+
+Date：2021-02-26 16:30:42.618
+LogLevel：Information
+Message：Now listening on: "https://localhost:5001"
+
+Date：2021-02-26 16:30:42.791
+LogLevel：Information
+Message：Now listening on: "http://localhost:5000"
+
+Date：2021-02-26 16:30:42.889
+LogLevel：Information
+Message：Application started. Press Ctrl+C to shut down.
+
+Date：2021-02-26 16:30:42.897
+LogLevel：Information
+Message：Hosting environment: "Development"
+
+Date：2021-02-26 16:30:42.907
+LogLevel：Information
+Message：Content root path: "D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry"
+
+Date：2021-02-26 16:38:04.586
+LogLevel：Information
+Message：Now listening on: "https://localhost:5001"
+
+Date：2021-02-26 16:38:04.713
+LogLevel：Information
+Message：Now listening on: "http://localhost:5000"
+
+Date：2021-02-26 16:38:04.729
+LogLevel：Information
+Message：Application started. Press Ctrl+C to shut down.
+
+Date：2021-02-26 16:38:04.740
+LogLevel：Information
+Message：Hosting environment: "Development"
+
+Date：2021-02-26 16:38:04.750
+LogLevel：Information
+Message：Content root path: "D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry"
+
+Date：2021-02-26 16:38:48.263
+LogLevel：Error
+Message：An unhandled exception has occurred while executing the request.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.ArgumentException: BaseType_Must_Have_Default_Ctor FurionTemplate.Core.AOP.ULogAop (Parameter 'baseType')
+   at Furion.Reflection.AspectDispatchProxyGenerator.GenerateProxyType(Type baseType, Type interfaceType)
+   at Furion.Reflection.AspectDispatchProxyGenerator.GetProxyType(Type baseType, Type interfaceType)
+   at Furion.Reflection.AspectDispatchProxyGenerator.CreateProxyInstance(Type baseType, Type interfaceType)
+   at Furion.Reflection.AspectDispatchProxy.Create[T,TProxy]()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at Microsoft.Extensions.DependencyInjection.DependencyInjectionServiceCollectionExtensions.<>c__DisplayClass10_0.<AddSingletonDispatchProxy>b__0(IServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitFactory(FactoryCallSite factoryCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitCache(ServiceCallSite callSite, RuntimeResolverContext context, ServiceProviderEngineScope serviceProviderEngine, RuntimeResolverLock lockType)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitRootCache(ServiceCallSite singletonCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine.<>c__DisplayClass1_0.<RealizeService>b__0(ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetService[T](IServiceProvider provider)
+   at Microsoft.AspNetCore.Mvc.Filters.FriendlyExceptionFilter.OnExceptionAsync(ExceptionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Furion.UnifyResult.UnifyResultStatusCodesMiddleware.InvokeAsync(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+Date：2021-02-26 16:43:06.004
+LogLevel：Information
+Message：Now listening on: "https://localhost:5001"
+
+Date：2021-02-26 16:43:06.098
+LogLevel：Information
+Message：Now listening on: "http://localhost:5000"
+
+Date：2021-02-26 16:43:06.104
+LogLevel：Information
+Message：Application started. Press Ctrl+C to shut down.
+
+Date：2021-02-26 16:43:06.109
+LogLevel：Information
+Message：Hosting environment: "Development"
+
+Date：2021-02-26 16:43:06.114
+LogLevel：Information
+Message：Content root path: "D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry"
+
+Date：2021-02-26 16:43:18.185
+LogLevel：Information
+Message：查询了ID为3的数据
+
+Date：2021-02-26 16:43:18.200
+LogLevel：Information
+Message：查询了ID为3的数据
+
+Date：2021-02-26 16:43:47.030
+LogLevel：Information
+Message：查询了ID为3的数据
+
+Date：2021-02-26 16:43:47.045
+LogLevel：Information
+Message：查询了ID为3的数据
+
+Date：2021-02-26 16:44:28.233
+LogLevel：Information
+Message：【日志名称】:"添加用户" 
+【日志类型】:Operation 
+【操作类型】:Add 
+【执行结果】:"\"请求成功\"" 
+
+
+Date：2021-02-26 16:48:27.847
+LogLevel：Information
+Message：Now listening on: "https://localhost:5001"
+
+Date：2021-02-26 16:48:27.943
+LogLevel：Information
+Message：Now listening on: "http://localhost:5000"
+
+Date：2021-02-26 16:48:27.951
+LogLevel：Information
+Message：Application started. Press Ctrl+C to shut down.
+
+Date：2021-02-26 16:48:27.959
+LogLevel：Information
+Message：Hosting environment: "Development"
+
+Date：2021-02-26 16:48:27.967
+LogLevel：Information
+Message：Content root path: "D:\胡国东\FurionTemplate\FurionTemplate.Web.Entry"
+
+Date：2021-02-26 16:48:41.387
+LogLevel：Information
+Message：查询了ID为3的数据
+
+Date：2021-02-26 16:48:41.398
+LogLevel：Information
+Message：查询了ID为3的数据
