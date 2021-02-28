@@ -2,8 +2,8 @@
 using Furion.DataEncryption;
 using Furion.DependencyInjection;
 using Furion.FriendlyException;
+using FurionTemplate.Application.AOP;
 using FurionTemplate.Core;
-using FurionTemplate.Core.AOP;
 using FurionTemplate.Core.Enum;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
@@ -16,6 +16,8 @@ namespace FurionTemplate.Application.Demo.Services
     /// <summary>
     /// 测试服务
     /// </summary>
+    [Injection(Proxy = typeof(RedisAop))]
+
     public class DemoService : IDemoService, ITransient
     {
         private readonly ILogger<DemoService> _logger;
@@ -32,6 +34,7 @@ namespace FurionTemplate.Application.Demo.Services
 
             return "Hello World";
         }
+
 
         public string Query(int id)
         {

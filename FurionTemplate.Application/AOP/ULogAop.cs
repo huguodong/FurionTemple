@@ -9,7 +9,7 @@ using System.Linq;
 using System.Reflection;
 using System.Threading.Tasks;
 
-namespace FurionTemplate.Core.AOP
+namespace FurionTemplate.Application.AOP
 {
     public class ULogAop : AspectDispatchProxy, IGlobalDispatchProxy
     {
@@ -32,8 +32,7 @@ namespace FurionTemplate.Core.AOP
         /// <returns></returns>
         public override object Invoke(MethodInfo method, object[] args)
         {
-
-            if (method.ReturnType == typeof(void) || method.ReturnType == typeof(Task))
+            if (method.ReturnType == typeof(void))
             {
                 return method.Invoke(Target, args);
             }

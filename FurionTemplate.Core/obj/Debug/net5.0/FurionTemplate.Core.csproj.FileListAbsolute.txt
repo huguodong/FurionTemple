@@ -11,3 +11,4 @@ D:\git\FurionTemple\FurionTemplate.Core\obj\Debug\net5.0\FurionTemplate.Core.csp
 D:\git\FurionTemple\FurionTemplate.Core\obj\Debug\net5.0\FurionTemplate.Core.dll
 D:\git\FurionTemple\FurionTemplate.Core\obj\Debug\net5.0\ref\FurionTemplate.Core.dll
 D:\git\FurionTemple\FurionTemplate.Core\obj\Debug\net5.0\FurionTemplate.Core.pdb
+D:\git\FurionTemple\FurionTemplate.Core\obj\Debug\net5.0\FurionTemplate.Core.csprojAssemblyReference.cache

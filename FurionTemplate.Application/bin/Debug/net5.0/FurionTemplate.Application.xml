@@ -4,6 +4,135 @@
         <name>FurionTemplate.Application</name>
     </assembly>
     <members>
+        <member name="M:FurionTemplate.Application.AOP.RedisAop.Invoke(System.Reflection.MethodInfo,System.Object[])">
+            <summary>
+            拦截方法
+            </summary>
+            <param name="method"></param>
+            <param name="args"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FurionTemplate.Application.AOP.RedisAop.InvokeAsync(System.Reflection.MethodInfo,System.Object[])">
+            <summary>
+            异步无返回值
+            </summary>
+            <param name="method"></param>
+            <param name="args"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FurionTemplate.Application.AOP.RedisAop.InvokeAsyncT``1(System.Reflection.MethodInfo,System.Object[])">
+            <summary>
+            异步带返回值
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="method"></param>
+            <param name="args"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FurionTemplate.Application.AOP.RedisAop.RecordRedis(System.Reflection.MethodInfo,System.Object,System.Object[])">
+            <summary>
+            添加到redis
+            </summary>
+            <param name="method"></param>
+            <param name="returnValue"></param>
+            <param name="args"></param>
+        </member>
+        <member name="M:FurionTemplate.Application.AOP.RedisAop.GetArgumentValue(System.Object)">
+            <summary>
+            object 转 string
+            </summary>
+            <param name="arg"></param>
+            <returns></returns>
+        </member>
+        <member name="T:FurionTemplate.Application.AOP.CachingAttribute">
+            <summary>
+            这个Attribute就是使用时候的验证，把它添加到要缓存数据的方法中，即可完成缓存的操作。
+            </summary>
+        </member>
+        <member name="P:FurionTemplate.Application.AOP.CachingAttribute.AbsoluteExpiration">
+            <summary>
+            过期时间单位:分钟
+            </summary>
+        </member>
+        <member name="P:FurionTemplate.Application.AOP.CachingAttribute.CustomKeyValue">
+            <summary>
+            自定义KEY
+            </summary>
+        </member>
+        <member name="P:FurionTemplate.Application.AOP.CachingAttribute.IsDelete">
+            <summary>
+            是否删除
+            </summary>
+        </member>
+        <member name="P:FurionTemplate.Application.AOP.ULogAop.Target">
+            <summary>
+            当前服务实例
+            </summary>
+        </member>
+        <member name="P:FurionTemplate.Application.AOP.ULogAop.Services">
+            <summary>
+            服务提供器，可以用来解析服务，如：Services.GetService()
+            </summary>
+        </member>
+        <member name="M:FurionTemplate.Application.AOP.ULogAop.Invoke(System.Reflection.MethodInfo,System.Object[])">
+            <summary>
+            拦截方法
+            </summary>
+            <param name="method"></param>
+            <param name="args"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FurionTemplate.Application.AOP.ULogAop.InvokeAsync(System.Reflection.MethodInfo,System.Object[])">
+            <summary>
+            异步无返回值
+            </summary>
+            <param name="method"></param>
+            <param name="args"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FurionTemplate.Application.AOP.ULogAop.InvokeAsyncT``1(System.Reflection.MethodInfo,System.Object[])">
+            <summary>
+            异步带返回值
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="method"></param>
+            <param name="args"></param>
+            <returns></returns>
+        </member>
+        <member name="M:FurionTemplate.Application.AOP.ULogAop.RecordLog(System.Reflection.MethodInfo,System.Object)">
+            <summary>
+            记录日志
+            </summary>
+            <param name="method"></param>
+            <param name="returnValue"></param>
+        </member>
+        <member name="M:FurionTemplate.Application.AOP.ULogAop.CreateLog(FurionTemplate.Application.AOP.ULogAttribute,System.Object)">
+            <summary>
+            创建日志内容
+            </summary>
+            <param name="uLogAttribute"></param>
+            <param name="returnValue"></param>
+        </member>
+        <member name="P:FurionTemplate.Application.AOP.ULogAttribute.LogName">
+            <summary>
+            操作名称
+            </summary>
+        </member>
+        <member name="P:FurionTemplate.Application.AOP.ULogAttribute.LogType">
+            <summary>
+            日志类型
+            </summary>
+        </member>
+        <member name="P:FurionTemplate.Application.AOP.ULogAttribute.OperationType">
+            <summary>
+            操作类型
+            </summary>
+        </member>
+        <member name="T:FurionTemplate.Application.AOP.ULogModel">
+            <summary>
+            用户操作
+            </summary>
+        </member>
         <member name="T:FurionTemplate.Application.Demo.DemoAppService">
             <summary>
             测试

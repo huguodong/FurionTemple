@@ -1,0 +1,22 @@
+﻿#Software: FurionTemplate.Web.Entry
+#ProcessID: 2012 x64
+#AppDomain: FurionTemplate.Web.Entry
+#FileName: D:\git\FurionTemple\FurionTemplate.Web.Entry\bin\Debug\net5.0\FurionTemplate.Web.Entry.exe
+#BaseDirectory: D:\git\FurionTemple\FurionTemplate.Web.Entry\bin\Debug\net5.0\
+#CurrentDirectory: D:\git\FurionTemple\FurionTemplate.Web.Entry
+#TempPath: C:\Users\Administrator.XTTD-2021AOSAJK\AppData\Local\Temp\
+#CommandLine: D:\git\FurionTemple\FurionTemplate.Web.Entry\bin\Debug\net5.0\FurionTemplate.Web.Entry.dll
+#ApplicationType: Console
+#CLR: 5.0.3, .NET 5.0.3
+#OS: Microsoft Windows NT 10.0.17763.0, XTTD-2021AOSAJK/Administrator
+#CPU: 12
+#GC: IsServerGC=True, LatencyMode=Interactive
+#Date: 2021-02-27
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+13:41:24.288  4 Y - NewLife.Core v8.10.2021.0202 Build 2021-02-02 23:51:00 .NETCoreApp,Version=v5.0
+13:41:24.289  4 Y - X组件核心库 ©2002-2021 NewLife
+13:41:24.289  4 Y - FurionTemplate.Web.Entry v1.0.0.0 Build 2000-01-01 .NETCoreApp,Version=v5.0
+13:41:24.289  4 Y - FurionTemplate.Web.Entry 
+13:41:24.289  4 Y - 保存配置 D:\git\FurionTemple\FurionTemplate.Web.Entry\bin\Debug\net5.0\Config\Core.config
+13:41:24.290  4 Y - Redis使用 Tcp://192.168.0.106:6379

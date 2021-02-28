@@ -1,4 +1,4 @@
-﻿using FurionTemplate.Core.AOP;
+﻿using FurionTemplate.Application.AOP;
 using FurionTemplate.Core.Enum;
 
 namespace FurionTemplate.Application.Demo.Services
@@ -10,6 +10,7 @@ namespace FurionTemplate.Application.Demo.Services
         string AopTest();
         string GetString();
         string GetToken();
+        [Caching(AbsoluteExpiration = 1)]
         string Query(int id);
         string Throw();
     }

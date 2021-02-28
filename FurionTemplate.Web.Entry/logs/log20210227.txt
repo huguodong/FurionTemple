@@ -1,0 +1,112 @@
+2021-02-27 12:02:52.326 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-27 12:02:52.379 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-27 12:02:52.381 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-27 12:02:52.381 +08:00 [INF] Hosting environment: Development
+2021-02-27 12:02:52.382 +08:00 [INF] Content root path: D:\git\FurionTemple\FurionTemplate.Web.Entry
+2021-02-27 12:03:14.440 +08:00 [ERR] 报错了
+2021-02-27 12:03:24.937 +08:00 [ERR] 【日志名称】:系统异常 
+【日志类型】:"System" 
+
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> Furion.FriendlyException.AppFriendlyException: 数据不存在
+   at FurionTemplate.Application.Demo.Services.DemoService.Throw() in D:\git\FurionTemple\FurionTemplate.Application\Demo\Services\DemoService.cs:line 50
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at FurionTemplate.Core.AOP.ULogAop.Invoke(MethodInfo method, Object[] args) in D:\git\FurionTemple\FurionTemplate.Core\AOP\ULogAop.cs:line 42
+--- End of stack trace from previous location ---
+   at Furion.Reflection.AspectDispatchProxyGenerator.Invoke(Object[] args)
+   at Furion.Reflection.DispatchProxyHandler.InvokeHandle(Object[] args)
+   at generatedProxy_1.Throw()
+   at FurionTemplate.Application.Demo.DemoAppService.GetThrow() in D:\git\FurionTemple\FurionTemplate.Application\Demo\DemoAppService.cs:line 60
+   at lambda_method65(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+2021-02-27 12:51:54.241 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-27 12:51:54.283 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-27 12:51:54.285 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-27 12:51:54.285 +08:00 [INF] Hosting environment: Development
+2021-02-27 12:51:54.286 +08:00 [INF] Content root path: D:\git\FurionTemple\FurionTemplate.Web.Entry
+2021-02-27 12:58:36.310 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-27 12:58:36.351 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-27 12:58:36.353 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-27 12:58:36.353 +08:00 [INF] Hosting environment: Development
+2021-02-27 12:58:36.354 +08:00 [INF] Content root path: D:\git\FurionTemple\FurionTemplate.Web.Entry
+2021-02-27 12:58:43.669 +08:00 [INF] 查询了ID为3的数据
+2021-02-27 12:59:51.790 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-27 12:59:51.832 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-27 12:59:51.833 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-27 12:59:51.834 +08:00 [INF] Hosting environment: Development
+2021-02-27 12:59:51.835 +08:00 [INF] Content root path: D:\git\FurionTemple\FurionTemplate.Web.Entry
+2021-02-27 13:09:50.893 +08:00 [INF] 查询了ID为3的数据
+2021-02-27 13:22:08.861 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-27 13:22:08.906 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-27 13:22:08.907 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-27 13:22:08.908 +08:00 [INF] Hosting environment: Development
+2021-02-27 13:22:08.909 +08:00 [INF] Content root path: D:\git\FurionTemple\FurionTemplate.Web.Entry
+2021-02-27 13:22:18.210 +08:00 [INF] 查询了ID为3的数据
+2021-02-27 13:22:47.576 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-27 13:22:47.615 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-27 13:22:47.616 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-27 13:22:47.617 +08:00 [INF] Hosting environment: Development
+2021-02-27 13:22:47.617 +08:00 [INF] Content root path: D:\git\FurionTemple\FurionTemplate.Web.Entry
+2021-02-27 13:23:10.464 +08:00 [INF] 查询了ID为3的数据
+2021-02-27 13:23:34.036 +08:00 [INF] 查询了ID为3的数据
+2021-02-27 13:25:33.626 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-27 13:25:33.668 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-27 13:25:33.669 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-27 13:25:33.670 +08:00 [INF] Hosting environment: Development
+2021-02-27 13:25:33.670 +08:00 [INF] Content root path: D:\git\FurionTemple\FurionTemplate.Web.Entry
+2021-02-27 13:27:05.217 +08:00 [INF] 查询了ID为3的数据
+2021-02-27 13:30:14.107 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-27 13:30:14.153 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-27 13:30:14.155 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-27 13:30:14.156 +08:00 [INF] Hosting environment: Development
+2021-02-27 13:30:14.156 +08:00 [INF] Content root path: D:\git\FurionTemple\FurionTemplate.Web.Entry
+2021-02-27 13:35:43.134 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-27 13:35:43.173 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-27 13:35:43.174 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-27 13:35:43.175 +08:00 [INF] Hosting environment: Development
+2021-02-27 13:35:43.176 +08:00 [INF] Content root path: D:\git\FurionTemple\FurionTemplate.Web.Entry
+2021-02-27 13:36:53.750 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-27 13:36:53.788 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-27 13:36:53.789 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-27 13:36:53.789 +08:00 [INF] Hosting environment: Development
+2021-02-27 13:36:53.790 +08:00 [INF] Content root path: D:\git\FurionTemple\FurionTemplate.Web.Entry
+2021-02-27 13:41:08.391 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-27 13:41:08.433 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-27 13:41:08.435 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-27 13:41:08.436 +08:00 [INF] Hosting environment: Development
+2021-02-27 13:41:08.437 +08:00 [INF] Content root path: D:\git\FurionTemple\FurionTemplate.Web.Entry
+2021-02-27 13:41:20.051 +08:00 [INF] 查询了ID为3的数据
+2021-02-27 13:41:36.202 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-27 13:41:36.243 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-27 13:41:36.244 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-27 13:41:36.244 +08:00 [INF] Hosting environment: Development
+2021-02-27 13:41:36.245 +08:00 [INF] Content root path: D:\git\FurionTemple\FurionTemplate.Web.Entry
+2021-02-27 13:48:39.339 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-27 13:48:39.380 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-27 13:48:39.382 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-27 13:48:39.382 +08:00 [INF] Hosting environment: Development
+2021-02-27 13:48:39.383 +08:00 [INF] Content root path: D:\git\FurionTemple\FurionTemplate.Web.Entry
+2021-02-27 14:04:38.413 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-27 14:04:38.455 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-27 14:04:38.456 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-27 14:04:38.457 +08:00 [INF] Hosting environment: Development
+2021-02-27 14:04:38.458 +08:00 [INF] Content root path: D:\git\FurionTemple\FurionTemplate.Web.Entry
+2021-02-27 14:04:52.238 +08:00 [INF] 【日志名称】:添加用户 
+【日志类型】:"Operation" 
+【操作类型】:"Add" 
+【执行结果】:"请求成功" 
+
+2021-02-27 14:05:12.251 +08:00 [INF] Now listening on: https://localhost:5001
+2021-02-27 14:05:12.295 +08:00 [INF] Now listening on: http://localhost:5000
+2021-02-27 14:05:12.297 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-02-27 14:05:12.298 +08:00 [INF] Hosting environment: Development
+2021-02-27 14:05:12.298 +08:00 [INF] Content root path: D:\git\FurionTemple\FurionTemplate.Web.Entry
